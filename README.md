@@ -1,1 +1,2 @@
 "#git oral"
+git pull 
